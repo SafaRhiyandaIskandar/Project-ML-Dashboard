@@ -1,0 +1,7 @@
+streamlit
+streamlit-shadcn-ui
+numpy
+pandas
+plotly
+scikit-learn
+openpyxl
